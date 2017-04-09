@@ -3,3 +3,6 @@ env
 datasets
 .idea
 .ipynb_checkpoints
+images
+02_end_to_end_machine_learning_project.ipynb
+*.mat
